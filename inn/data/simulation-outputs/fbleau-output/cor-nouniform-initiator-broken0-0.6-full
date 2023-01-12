@@ -1,0 +1,8 @@
+Random guessing error: 0.7007775894726349
+Estimating leakage measures...
+
+Minimum estimate: 0.6540225301565148
+Multiplicative Leakage: 1.1562552057304685
+Additive Leakage: 0.04675505931612012
+Bayes security measure: 0.9332811722028592
+Min-entropy Leakage: 0.20945986099294944
